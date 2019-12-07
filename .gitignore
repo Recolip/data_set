@@ -1,2 +1,2 @@
-./generate/node_modules/*
+/generate/node_modules/*
 .DS_Store
